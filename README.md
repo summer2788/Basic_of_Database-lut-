@@ -4,7 +4,7 @@ this is the basic of database what I learned from LUT University in Finland
 
 ---
 
-##final project
+## final project
 
 The Book World database is a database developed for a platform/game manager who manages a book share platform/game that users can make their own books and take notes into them. Users can read other user’s books by making friendship. They should have each of their own house and can buy books from the shop or even borrow books from the library.
 
