@@ -1,5 +1,11 @@
 # Basic_of_Database-lut-
 this is the basic of database what I learned from LUT University in Finland
+
+
+---
+
+##final project
+
 The Book World database is a database developed for a platform/game manager who manages a book share platform/game that users can make their own books and take notes into them. Users can read other user’s books by making friendship. They should have each of their own house and can buy books from the shop or even borrow books from the library.
 
 The database stores User and Book information. The User information is stored in the User table, which includes user ID, password, and nickname. The Book information is related to other information such as store, library, and review board. The Book entity includes book name, book type, and book ID. The database also stores the possession status between users and books.
